@@ -58,10 +58,10 @@ This repository contains the code and results of the TWAS pipeline executed with
 
 ## RESULTS OVERVIEW
 ### Major Depressive Disorder (MDD)
-![Manhattan MDD](5_figuras/Manhattan_TWAS_MDD_Etiquetado.png)
+![Manhattan MDD](results-manhattan-plots/Manhattan_TWAS_MDD_Etiquetado.png)
 
 ### Bipolar Disorder (BD)
-![Manhattan BD](5_figuras/Manhattan_TWAS_BD_Etiquetado.png)
+![Manhattan BD](results-manhattan-plots/Manhattan_TWAS_BD_Etiquetado.png)
 
 ### Suicide Attempt (SA)
-![Manhattan SA](5_figuras/Manhattan_TWAS_SA_Etiquetado.png)
+![Manhattan SA](results-manhattan-plots/Manhattan_TWAS_SA_Etiquetado.png)
